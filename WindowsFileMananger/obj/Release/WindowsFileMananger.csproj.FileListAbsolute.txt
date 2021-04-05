@@ -1,0 +1,10 @@
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\Release\WindowsFileMananger.exe.config
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\Release\WindowsFileMananger.exe
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\Release\WindowsFileMananger.pdb
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.FileMananger.resources
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.Properties.myResource.resources
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.csproj.GenerateResource.cache
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.exe
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.pdb
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\Release\WindowsFileMananger.csprojAssemblyReference.cache

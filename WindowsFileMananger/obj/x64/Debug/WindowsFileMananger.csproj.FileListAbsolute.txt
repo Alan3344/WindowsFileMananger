@@ -1,0 +1,10 @@
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\x64\Debug\WindowsFileMananger.exe.config
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\x64\Debug\WindowsFileMananger.exe
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\bin\x64\Debug\WindowsFileMananger.pdb
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.FileMananger.resources
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.Properties.myResource.resources
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.Properties.Resources.resources
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.csproj.GenerateResource.cache
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.exe
+C:\Users\Xander\source\repos\WindowsFileMananger\WindowsFileMananger\obj\x64\Debug\WindowsFileMananger.pdb
